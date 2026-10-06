@@ -1,0 +1,6 @@
+{
+  "name": "DARK ALISE OBS",
+  "description": "Professional native Android screen recorder and live streaming studio for Android 10+ with scenes, sources, audio mixer, and MediaProjection hardware encoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

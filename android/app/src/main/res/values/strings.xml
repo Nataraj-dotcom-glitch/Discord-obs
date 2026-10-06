@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DARK ALISE OBS</string>
+    <string name="app_subtitle">Professional screen recording for Android</string>
+    <string name="notification_channel_name">Screen Recording Service</string>
+    <string name="notification_channel_desc">Active background screen capture and audio processing notification</string>
+    <string name="recording_active">Recording in progress</string>
+    <string name="recording_paused">Recording paused</string>
+    <string name="btn_start_recording">Start Recording</string>
+    <string name="btn_stop_recording">Stop Recording</string>
+    <string name="btn_pause_recording">Pause</string>
+    <string name="btn_resume_recording">Resume</string>
+    <string name="err_discord_audio">Device audio cannot be captured because Android or the source app does not allow playback capture.</string>
+    <string name="err_permission_denied">Permission denied for requested feature.</string>
+    <string name="err_encoder_failed">Hardware encoder failed. Falling back to software AVC encoder.</string>
+    <string name="err_storage_low">Insufficient storage available in Movies/DarkAliseOBS/.</string>
+</resources>
